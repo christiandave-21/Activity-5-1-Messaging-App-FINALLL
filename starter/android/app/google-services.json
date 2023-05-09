@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096187806224",
+    "project_id": "chismis-c671a",
+    "storage_bucket": "chismis-c671a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096187806224:android:78a2aa265213dcf49f8095",
+        "android_client_info": {
+          "package_name": "com.marites.Chismis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096187806224-217v57ke44f50cdkntd08s3nd3a9ms9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF5aCTPko5Roj9oFizKUnCb_D_TszZ0wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096187806224-217v57ke44f50cdkntd08s3nd3a9ms9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
